@@ -3,6 +3,7 @@
 
 <div align='center'>
   <h2>About me</h2>
+  <b>😺</b>
   <p>Studying Backend Development & Data Analysis</p>
 
 <a href="https://github.com/anuraghazra/github-readme-stats">

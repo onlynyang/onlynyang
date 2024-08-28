@@ -9,7 +9,7 @@
 </div>
 
 <p>
-I am Majoring in Statistics & Computer Science at Dongguk University with a focus on becoming a Back-end Developer. <br/>
+I am majoring in Statistics and Computer Science at Dongguk University, focusing on becoming a Back-end Developer. <br/>
 </p>
 
 <br>

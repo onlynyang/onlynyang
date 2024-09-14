@@ -49,7 +49,7 @@ I am majoring in Statistics and Computer Science at Dongguk University, focusing
 
 ## 🏆 Award
 <details>
-<summary>🥉 2024 동국대학교 멋쟁이사자처럼 심바톤 </summary>
+<summary>🥉 2024 SW교육원 & 동국대학교 멋쟁이사자처럼 주최 해커톤 3등 </summary> 
   
    `[2024.06]` [Github](https://github.com/onlynyang/2024-simba-4-Kongdak)
 </details>

@@ -9,7 +9,7 @@
 </div>
 
 <p>
-I am majoring in Statistics and Computer Science at Dongguk University, focusing on becoming a Back-end Developer. <br/>
+I am majoring in Statistics and Computer Science at Dongguk University. <br/>
 </p>
 
 <br>
@@ -35,7 +35,9 @@ I am majoring in Statistics and Computer Science at Dongguk University, focusing
 | :-------------------------------------------------: | :--------: | :---------------: | :--------------------------------------------------------: | :----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------: |
 | 동국대학교에서의 추억을 위한, **콩닥콩닥** | Python | 2024.05 ~ 2024.06 | <img src="https://img.shields.io/badge/-LikeLion-orange"/> |                                       [Github](https://github.com/onlynyang/2024-simba-4-Kongdak)                                         |
 |  스타와 함께하는 갓생의 시작, **STAR.T**  |   Python    | 2024.07 ~ 2024.08 |    <img src="https://img.shields.io/badge/-LikeLion-orange"/>    | [Github](https://github.com/onlynyang/2024-Hackathon-4-STAR.T-Bakcend) [Website](https://api.likelion-start.site/)(서버종료) |
-|      _In Planning_      |   Python    | -|    <img src="https://img.shields.io/badge/-Individual-pink"/>    |   🚧   |
+|      직무 및 채용공고 추천 시스템      |   Python    | 2024.09 ~ 2024.11 |    <img src="https://img.shields.io/badge/-BAF-blue"/>    |   [Github](https://github.com/onlynyang/BAF-24-2-finance.git)   |
+|      교환학생 정보교환 플랫폼, **ZUGO**      |   Python <br>AWS Lambda / APIGateway    | 2024.10 ~ 2024.11|    <img src="https://img.shields.io/badge/-LikeLion-orange"/>    |   [Github](https://github.com/onlynyang/ZUGO-BE.git)   |
+|      _In Planning_      |   Python    | -|    <img src="https://img.shields.io/badge/-Individual-pink"/>    |   -   |
 
 <br>
 

@@ -5,7 +5,10 @@
 
 <div>
 <a href="https://www.instagram.com/1jiiieuuun/" target="_blank"><img src="https://img.shields.io/badge/Instagram-E4405F?style=flat-square&logo=Instagram&logoColor=white"/></a>
-<a href="mailto: chica1875@gmail.com" target="_blank"><img src="https://img.shields.io/badge/gmail-EA4335?style=flat-square&logo=Gmail&logoColor=white"/></a>
+<a href="https://mail.google.com/mail/?view=cm&fs=1&to=chica1875@gmail.com" target="_blank">
+  <img src="https://img.shields.io/badge/gmail-EA4335?style=flat-square&logo=Gmail&logoColor=white"/>
+</a>
+
 </div>
 
 <p>

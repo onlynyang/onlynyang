@@ -41,14 +41,14 @@ I am majoring in Statistics Dongguk University. <br/>
 |      직무 및 채용공고 **추천 시스템**      |   Python    | 2024.09 ~ 2024.11 |    <img src="https://img.shields.io/badge/-BAF-blue"/>    |   [Github](https://github.com/onlynyang/BAF-24-2-finance.git)   |
 |      교환학생 정보교환 플랫폼, <b>*ZUGO*      |   Python <br>AWS Lambda <br> AWS APIGateway    | 2024.10 ~ 2024.11|    <img src="https://img.shields.io/badge/-LikeLion-orange"/>    |   [Github](https://github.com/onlynyang/ZUGO-BE.git)   |
 |     <details><summary> 트럼프 2기, 미국 ESG 섹터 **주가 분석 및 예측** </summary> 이벤트 스터디 분석과 LSTM기반 예측을 활용한<br> 미국 ESG산업 투자 방향성 제안<br>`2024 DB 보험 금융 공모전`   |   Python    | 2025.01 ~ 2025.02 |    <img src="https://img.shields.io/badge/-Individual-purple"/>    |   -   |
-|      <details><summary> 스캔들과 소속 엔터사 상관관계를 활용한 **주가 분석** </summary>연예인 스캔들이 소속 엔터사 주가에 미치는 영향과 전략적 대응 방안    |   Python    | 2025.03 ~ 2025.05 |    <img src="https://img.shields.io/badge/-BAF-blue"/>     |   -   |
-|      토지허가제와 서울시 **주택 매매가 분석**   |   Python    | 2025.03 ~ 2025.06|   <img src="https://img.shields.io/badge/-Individual-purple"/>   |   -   |
+|      <details><summary> 연예인 스캔들과 소속 엔터사의<br> 상관관계를 활용한 **주가 분석** </summary>연예인 스캔들이 소속 엔터사 주가에 미치는 영향과 전략적 대응 방안    |   Python    | 2025.03 ~ 2025.05 |    <img src="https://img.shields.io/badge/-BAF-blue"/>     |   -   |
+|      토지허가제와 서울시 주택 **매매가 분석**   |   Python    | 2025.03 ~ 2025.06|   <img src="https://img.shields.io/badge/-Individual-purple"/>   |   -   |
 <br>
 
 
 <a href="https://github.com/LikeLion-at-DGU"><img src="https://img.shields.io/badge/-LikeLion-orange"/></a> 동국대학교 멋쟁이사자처럼, 12th member of Development Club : Back-end curriculum `[2024.03 ~ 2024.11]`
 
-<a href="https://github.com/DGU-BAF"><img src="https://img.shields.io/badge/-BAF-blue"/></a> 동국대학교 통계학과 빅데이터학회, 15th member of a Data Analysis Association `[2024.06 ~ ing]`
+<a href="https://github.com/DGU-BAF"><img src="https://img.shields.io/badge/-BAF-blue"/></a> 동국대학교 통계학과 빅데이터학회, 15th member of a Data Analysis Association `[2024.06 ~ 2025.07]`
 
 <br>
 

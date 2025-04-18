@@ -4,10 +4,10 @@
 ## Hi, I'm Jieun Han!
 
 <div>
-<a href="https://www.instagram.com/1jiiieuuun/" target="_blank"><img src="https://img.shields.io/badge/Instagram-E4405F?style=flat-square&logo=Instagram&logoColor=white"/></a>
+<!--<a href="https://www.instagram.com/1jiiieuuun/" target="_blank"><img src="https://img.shields.io/badge/Instagram-E4405F?style=flat-square&logo=Instagram&logoColor=white"/></a>
 <a href="https://mail.google.com/mail/?view=cm&fs=1&to=chica1875@gmail.com" target="_blank">
   <img src="https://img.shields.io/badge/gmail-EA4335?style=flat-square&logo=Gmail&logoColor=white"/>
-</a>
+</a>-->
 
 </div>
 
@@ -59,7 +59,7 @@ I am majoring in Statistics Dongguk University. <br/>
 
 <br>
 
-## Stats
+<!--## Stats
 <div align='center'>
 
 <a href="https://github.com/anuraghazra/github-readme-stats">
@@ -67,7 +67,7 @@ I am majoring in Statistics Dongguk University. <br/>
 </a>    
 <a href="https://github.com/anuraghazra/github-readme-stats">
   <img src="https://github-readme-stats.vercel.app/api?username=onlynyang&show_icons=true&theme=default&hide_border=true&bg_color=ffffff&icon_color=C6538C&text_color=333333&title_color=DA5B0B&count_private=true" width="56%" />
-</a>
+</a>-->
 <!--<a href="https://github.com/ashutosh00710/github-readme-activity-graph">
     <img src="https://github-readme-activity-graph.vercel.app/graph?username=onlynyang&theme=default&bg_color=ffffff&hide_border=true&line=C6538C&color=DA5B0B" width="94%"/>-->
 

@@ -34,6 +34,19 @@ I am majoring in Statistics Dongguk University. <br/>
 
 ## Projects
 
+|                        Title                        |   Stack & Role    |     Duration      |                            Organization                           |                                                                                         More                                                                                         |
+| :-------------------------------------------------: | :--------: | :---------------: | :--------------------------------------------------------: | :----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------: |
+| 동국대학교에서의 추억을 위한, <b>*콩닥콩닥* | Python | 2024.05 ~ 2024.06 | <img src="https://img.shields.io/badge/-LikeLion-orange"/>  |                                       [Github](https://github.com/onlynyang/2024-simba-4-Kongdak)                                         |
+|  스타와 함께하는 갓생의 시작, <b>*STAR.T*  |   Python    | 2024.07 ~ 2024.08 |    <img src="https://img.shields.io/badge/-LikeLion-orange"/>    | [Github](https://github.com/onlynyang/2024-Hackathon-4-STAR.T-Bakcend)<br> [Website](https://api.likelion-start.site/)(서버종료) |
+|      직무 및 채용공고 **추천 시스템**      |   Python    | 2024.09 ~ 2024.11 |    <img src="https://img.shields.io/badge/-BAF-blue"/>    |   [Github](https://github.com/onlynyang/BAF-24-2-finance.git)   |
+|      교환학생 정보교환 플랫폼, <b>*ZUGO*      |   Python <br>AWS Lambda <br> AWS APIGateway    | 2024.10 ~ 2024.11|    <img src="https://img.shields.io/badge/-LikeLion-orange"/>  |   [Github](https://github.com/onlynyang/ZUGO-BE.git)   |
+|     <details><summary> 트럼프 2기, 미국 ESG 섹터 **주가 분석 및 예측** </summary> 이벤트 스터디 분석과 LSTM기반 예측을 활용한<br> 미국 ESG산업 투자 방향성 제안<br>`2024 DB 보험 금융 공모전`   |   Python    | 2025.01 ~ 2025.02 |    <img src="https://img.shields.io/badge/-Individual-purple"/>    |   -   |
+|      <details><summary> 연예인 스캔들과 소속 엔터사의<br> 상관관계를 활용한 **주가 분석** </summary>연예인 스캔들이 소속 엔터사 주가에 미치는 영향과 전략적 대응 방안    |   Python    | 2025.03 ~ 2025.05 |    <img src="https://img.shields.io/badge/-BAF-blue"/>     |   -   |
+|      토지허가제와 서울시 주택 **매매가 분석**   |   Python    | 2025.03 ~ 2025.06|   <img src="https://img.shields.io/badge/-Individual-purple"/>   |   -   |
+<br>
+
+
+<!--
 |                        Title                        |   Stack & Role    |     Duration      |                            Organization & Role                            |                                                                                         More                                                                                         |
 | :-------------------------------------------------: | :--------: | :---------------: | :--------------------------------------------------------: | :----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------: |
 | 동국대학교에서의 추억을 위한, <b>*콩닥콩닥* | Python | 2024.05 ~ 2024.06 | <img src="https://img.shields.io/badge/-LikeLion-orange"/> <br>- 백엔드 개발 <br>- 로컬 서버 환경 구축 |                                       [Github](https://github.com/onlynyang/2024-simba-4-Kongdak)                                         |
@@ -44,7 +57,7 @@ I am majoring in Statistics Dongguk University. <br/>
 |      <details><summary> 연예인 스캔들과 소속 엔터사의<br> 상관관계를 활용한 **주가 분석** </summary>연예인 스캔들이 소속 엔터사 주가에 미치는 영향과 전략적 대응 방안    |   Python    | 2025.03 ~ 2025.05 |    <img src="https://img.shields.io/badge/-BAF-blue"/>     |   -   |
 |      토지허가제와 서울시 주택 **매매가 분석**   |   Python    | 2025.03 ~ 2025.06|   <img src="https://img.shields.io/badge/-Individual-purple"/>   |   -   |
 <br>
-
+-->
 
 
 <a href="https://github.com/LikeLion-at-DGU"><img src="https://img.shields.io/badge/-LikeLion-orange"/></a> 동국대학교 멋쟁이사자처럼, 12th member of Development Club : Back-end curriculum `[2024.03 ~ 2024.11]`

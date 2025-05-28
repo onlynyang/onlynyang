@@ -34,7 +34,7 @@ I am majoring in Statistics Dongguk University. <br/>
 
 ## Projects
 
-|                        Title                        |   Stack & Role    |     Duration      |                            Organization                           |                                                                                         More                                                                                         |
+|                        Title                        |   Stack    |     Duration      |                            Organization                           |                                                                                         More                                                                                         |
 | :-------------------------------------------------: | :--------: | :---------------: | :--------------------------------------------------------: | :----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------: |
 | 동국대학교에서의 추억을 위한, <b>*콩닥콩닥* | Python | 2024.05 ~ 2024.06 | <img src="https://img.shields.io/badge/-LikeLion-orange"/>  |                                       [Github](https://github.com/onlynyang/2024-simba-4-Kongdak)                                         |
 |  스타와 함께하는 갓생의 시작, <b>*STAR.T*  |   Python    | 2024.07 ~ 2024.08 |    <img src="https://img.shields.io/badge/-LikeLion-orange"/>    | [Github](https://github.com/onlynyang/2024-Hackathon-4-STAR.T-Bakcend)<br> [Website](https://api.likelion-start.site/)(서버종료) |

@@ -41,7 +41,8 @@ I am majoring in Statistics Dongguk University. <br/>
 |      직무 및 채용공고 **추천 시스템**      |   Python    | 2024.09 ~ 2024.11 |    <img src="https://img.shields.io/badge/-BAF-blue"/>    |   [Github](https://github.com/onlynyang/BAF-24-2-finance.git)   |
 |      교환학생 정보교환 플랫폼, <b>*ZUGO*      |   Python <br>AWS Lambda <br> AWS APIGateway    | 2024.10 ~ 2024.11|    <img src="https://img.shields.io/badge/-LikeLion-orange"/>  |   [Github](https://github.com/onlynyang/ZUGO-BE.git)   |
 |     트럼프 2기, 미국 ESG 섹터 **주가 분석 및 예측** <br>`2024 DB 보험 금융 공모전`   |   Python    | 2025.01 ~ 2025.02 |    <img src="https://img.shields.io/badge/-Individual-purple"/>    |   -   |
-|      연예인 스캔들과 소속 엔터사의 **주가 분석 및 예측**  |   Python    | 2025.03 ~ 2025.05 |    <img src="https://img.shields.io/badge/-BAF-blue"/>     |   -   |
+|      연예인 이슈에 대한 엔터사의 **주가 분석 및 예측**  |   Python    | 2025.03 ~ 2025.05 |    <img src="https://img.shields.io/badge/-BAF-blue"/>     |   -   |
+|      재방문율 향상을 통한 인바운드 관광 활성화 전략  <br>`2025 한국문화관광연구원 공모전`  |   Python    | 2025.03 ~ 2025.05 |    <img src="https://img.shields.io/badge/-BAF-blue"/>     |   -   |
 <!--|      토지허가제와 서울시 주택 **매매가 분석**   |   Python    | 2025.03 ~ 2025.06|   <img src="https://img.shields.io/badge/-Individual-purple"/>   |   -   |-->
 <br>
 
@@ -51,7 +52,7 @@ I am majoring in Statistics Dongguk University. <br/>
 
 <a href="https://github.com/DGU-BAF"><img src="https://img.shields.io/badge/-BAF-blue"/></a> 동국대학교 통계학과 빅데이터학회 비어플, 15기 학회원 `[2024.06 ~ 2025.07]`
 
-<!--<a href="https://github.com/DGU-BAF"><img src="https://img.shields.io/badge/-BAF-blue"/></a> 동국대학교 통계학과 빅데이터학회 비어플, 10대 회장 `[2025.09 ~ 2026.08]`-->
+<a href="https://github.com/DGU-BAF"><img src="https://img.shields.io/badge/-BAF-blue"/></a> 동국대학교 통계학과 빅데이터학회 비어플, 10대 회장 `[2025.09 ~ 2026.08]`
 
 <br>
 
